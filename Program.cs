@@ -2,7 +2,8 @@
 {
     static void Main(string[] args)
     {
-        TaskManager taskManager = new TaskManager();
+        var cs = "Host=localhost;Username=myuser;Password=mypassword;Database=postgres";
+        TaskManager taskManager = new TaskManager(cs);
         bool running = true;
 
         while (running)
