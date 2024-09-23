@@ -19,4 +19,6 @@
     <li>Open the project in your favorite C# IDE (e.g., Visual Studio or Visual Studio Code).</li>
     <li>Build and run the project.</li>
 </ol>
-![image](https://github.com/user-attachments/assets/7f563517-ef05-4f8f-b3a1-1f7be9b01f32)
+
+
+![image](https://github.com/user-attachments/assets/6637f5ed-0b0f-47e1-bc3e-efebc9573f60)
