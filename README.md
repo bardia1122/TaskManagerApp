@@ -1,6 +1,6 @@
 <h1>Task Manager Console App (C#)</h1>
 
-<p>This is a simple console-based <strong>Task Manager</strong> application built with C#. It allows users to add, list, mark tasks as completed, and delete tasks.</p>
+<p>This is a simple console-based <strong>Task Manager</strong> application built with C# and PostgreSQL as its Database. It allows users to add, list, mark tasks as completed, and delete tasks.</p>
 
 <h2>Features:</h2>
 <ul>
@@ -19,3 +19,4 @@
     <li>Open the project in your favorite C# IDE (e.g., Visual Studio or Visual Studio Code).</li>
     <li>Build and run the project.</li>
 </ol>
+![image](https://github.com/user-attachments/assets/7f563517-ef05-4f8f-b3a1-1f7be9b01f32)
