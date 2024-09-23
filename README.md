@@ -9,6 +9,7 @@
     <li><strong>Mark Task as Completed:</strong> Update the status of a task to completed by its ID.</li>
     <li><strong>Delete Task:</strong> Remove tasks by their ID.</li>
     <li><strong>Console Interface:</strong> Simple and easy-to-use command-line interface.</li>
+    <li><strong>Console Interface:</strong> Also, tasks are added to a database.</li>
 </ul>
 
 <h2>How to Run:</h2>
